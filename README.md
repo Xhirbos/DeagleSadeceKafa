@@ -5,7 +5,7 @@ Bu plugin, **Counter-Strike 2** için geliştirilmiş olup, **Desert Eagle (Deag
 
 ## 🛠 Kurulum
 1. **Gerekli Bağımlılıklar:**
-   - [MetaMod](https://www.metamodsource.net/) ve [CounterStrikeSharp](https://docs.cssharp.dev/)) yüklenmiş olmalıdır
+   - [MetaMod](https://www.metamodsource.net/) ve [CounterStrikeSharp](https://docs.cssharp.dev/)) yüklenmiş olmalıdır.
 
 2. **Kurulum Adımları:**
    - `DeagleSadeceKafa` dosyasını **`csgo\addons\counterstrikesharp\plugins`** klasörünüze atın.
